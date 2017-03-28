@@ -9,6 +9,12 @@ h1,h2,h3,h4,h5,h6 {
 	color: #4aaaa5;
 }
 
+a:link {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+	text-decoration: none;
+}	
+
 p {
 	color: #d3d3d3;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -31,12 +37,14 @@ div#name-tag {
 	width: 20%;
 	margin-left: 22.3%;
 	margin-top: 32px;
-	background-color: white;
+	background-color: #4aaaa5;
 	text-align: center;
 }
 
 div#name-tag h2 {
 	margin: 5px;
+	color: white;
+
 }
 
 #sidebar {
@@ -63,6 +71,9 @@ section {
 div#my-portfolio h2{
 	border-bottom: 2px solid #dddddd;
 	width: 95%;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+
 }
 
 footer {
@@ -111,11 +122,22 @@ div#icon img {
 }
 
 h3#connect-title {
-	width: 100%;
+	width: 85%;
 	border-bottom: 2px solid #dddddd;
-
+	margin: 0 14px 5px 14px;
+	padding-bottom: 5px;
+	text-align: center;
 }
 
 footer h5 {
 	margin-top: 8px;
 }
+
+#mini-menu {
+	display: inline-block;
+	width: 20%;
+	text-align: center;
+	margin-left: 33%;
+
+}
+
