@@ -1,0 +1,121 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+}
+
+p {
+	color: #d3d3d3;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+body {
+	background-image: url('../images/ep_naturalwhite.png');
+}
+
+header {
+	border-bottom: 2px solid #dddddd;
+	width: 100%;
+	height: 75px;
+	background-color: #ffffff;
+}
+
+div#name-tag {
+	border: 2px solid #dddddd;
+	display: inline-block;
+	width: 20%;
+	margin-left: 22.3%;
+	margin-top: 32px;
+	background-color: white;
+	text-align: center;
+}
+
+div#name-tag h2 {
+	margin: 5px;
+}
+
+#sidebar {
+	margin-top: 5px;
+	display: inline-block;
+	width: 22%;
+	height: 75%;
+	vertical-align: top;
+
+}
+
+section {
+	border: 2px solid #dddddd;
+	margin-top: 5px;
+	background-color: #ffffff;
+	display: inline-block;
+	width: 55.2%;
+	height: 75%;
+	vertical-align: top;
+	padding-left: 15px;
+
+}
+
+div#my-portfolio h2{
+	border-bottom: 2px solid #dddddd;
+	width: 95%;
+}
+
+footer {
+	text-align: center;
+	background-color: #666666;
+	width: 100%;
+	height: 35px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+
+div#thumbnail {
+	margin: 2px;
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	vertical-align: top;
+}
+
+div#contact-me {
+	display: inline-block;
+	border: 2px solid #dddddd;
+	width: 200px;
+	height: 125px;
+	vertical-align: top;
+	text-align: center;
+	background-color: white;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
+
+div#icon {
+	display: inline-block;
+	margin-top: 5px;
+	width: 30%;
+	height: 55px;
+}
+
+div#icon img {
+	max-width: 55px;
+	max-height: 55px;
+}
+
+h3#connect-title {
+	width: 100%;
+	border-bottom: 2px solid #dddddd;
+
+}
+
+footer h5 {
+	margin-top: 8px;
+}
