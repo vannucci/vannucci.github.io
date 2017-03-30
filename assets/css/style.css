@@ -157,4 +157,19 @@ footer h5 {
 .label-text {
 	font-size: 14px;
 	opacity: 0.35;
+<<<<<<< HEAD:assets/css/style.css
 }
+
+#about-me-title {
+	border-bottom: 2px solid #dddddd;
+	font-size: 24px;
+	width: 50%;
+}
+
+#profile-pic {
+	float: left;
+}
+
+=======
+}
+>>>>>>> 1a830668e04115cbf5e6916088480d16e026a8b9:assets/css/style.css
