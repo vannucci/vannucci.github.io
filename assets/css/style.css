@@ -5,7 +5,7 @@
 .col-centered {
 	display:inline-block;
 	float: none;
-	text-align: center;
+	text-align: center !important;
 	margin-right: -4px;
 }
 
