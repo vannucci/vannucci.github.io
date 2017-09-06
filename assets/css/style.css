@@ -29,6 +29,15 @@ li {
 	padding: 15px;
 }
 
-a {
+h1 h2 h3 h4 h5 h6 a p {
 	font-family: serif;
+}
+
+.projectCard {
+	border: 1px solid grey;
+}
+
+footer {
+	text-align: center;
+	font-color: grey;
 }
