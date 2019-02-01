@@ -1,1 +1,12 @@
+#General Jekyll config
+highlighter: rouge
+name: Mike Vannucci's Questions
+description: I have many questions and here are some of them
+url: vannucci.github.io
+lsi: false
+
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+#Build settings
+markdown: kramdown
 theme: jekyll-theme-midnight
