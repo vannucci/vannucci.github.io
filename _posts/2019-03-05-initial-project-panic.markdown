@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Five Stages Of A Project"
-date:   2019-02-01 10:15:42 -0500
+date:   2019-03-05 10:33:00 -0500
 categories: psychology development
 ---
 "Hi, my name is Mike, and I panic when I start projects"
