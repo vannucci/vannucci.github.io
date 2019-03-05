@@ -35,8 +35,9 @@ categories: psychology development
  Oh you're new here. Dude you are in for a surprise.
 
  *POST-SCRIPT*
+ 
  While searching for a picture describing the Seven Stages of Grief, I found this at the top of the Google search:
 
- ![butter is grief?]({{site.url}}/assets/whyisbuttergrief.png)
+ ![butter is grief?](/assets/whyisbuttergrief.png)
 
  As a question for the reader, why are butter and Majora's Mask included as part of the Stages of Grief?
