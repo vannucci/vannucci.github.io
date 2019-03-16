@@ -1,3 +1,9 @@
+---
+layout: page
+title: Glossary
+permalink: /glossary/
+---
+
 # Glossary
 
 ## Overview
