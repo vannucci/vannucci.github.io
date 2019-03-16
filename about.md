@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi I'm Mike Vannucci. I'm learning to become the best software developer I can imagine. This site is a record of what I've done, how I think and approach the task of learning and inventing software, and hopefully a guide to you, reader, wherever you are along this path. Please feel free to reach out to me for any questions or thoughts you might have, I am always eager to talk to people about software and technology.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[Email](mailto:vannucci@gmail.com)
