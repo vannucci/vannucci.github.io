@@ -27,7 +27,7 @@ So when I approached this problem initially I took a 'Naive' solution at first. 
 
 The main issue with this idea is that it operates in O(n^2) time at its worst. You have to scan the whole string (n) and the substring is at max also length (n). Since you are going over both repeatedly in nested for loops, this means O(n^2) time. That's not fast enough.
 
-Reading more about possible solutions, I learned more about hashmaps. The idea is to createn a dictionary where the key
+Reading more about possible solutions, I learned more about hashmaps and sliding window. The idea is to createn a dictionary where the key
 
 [LeetCode Solution]: https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/
 [LeetCode Python Solution]:   https://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/256596/Python3-Naive-and-Optimized
