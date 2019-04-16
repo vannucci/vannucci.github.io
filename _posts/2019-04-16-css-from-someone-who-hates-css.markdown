@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "A Guide To Hating CSS Less"
 date:   2019-04-15 13:00:00 -0500
 categories: css
 ---
