@@ -22,7 +22,7 @@ I know I suffer from what I call "bottom of the mountain-itis". The basic idea o
 
 This is what I do to myself A LOT. I can easily overwork myself thinking about all the different features and functions needed to get something done, and things I don't even know how to _do_, and I just give up.
 
-## Comment-Driven Coding
+# Comment-Driven Coding
 
 This was where my Angel of Mercy showed up in hackernews (still a pompous name) and gave my an idea which helped me break this problem wide open. "Don't start by writing code. Start by writing comments. Write a comment for a main function that drives the whole thing, and then write a comment for a helper function or object for that main function. Organize and think about what your comment-functions will take in and return, with NO REGARD for what the actual code will be. Then after you have commented a lot out, start coding."
 
@@ -30,7 +30,7 @@ If anyone wants to tattoo this hackernews comment onto my belly upside down like
 
 This simple act of thinking through your code with just comments, even if you just write comments like "this function automagically takes this input and returns this output, hooray!" and trust that later on, when you need it, you can figure out how to make this function do what it needs to do, this relieves SO MUCH PRESSURE.
 
-## Bird By Bird (thank you, Anne Lamott)
+# Bird By Bird (thank you, Anne Lamott)
 
 Okay now I have a TON of comments, spread across different files, (oh and I just assume they'll all import exactly the way I want them to. Yup. No problems _there_) and it all "works", I think? The next issue is actually coding. Ugh, can't I just climb the mountain in like, a movie montage???? Fine. So you start coding. "Oh I know how to do _this_, and this and this and well, I forgot the syntax to this.... nevermind! Got it!" and you go on like this for a while. Eventually you get to a point where you _don't_ know what to do, and you don't even know what _question_ to ask. Oh man. Guess my programming career is over. Maybe Denny's is still hiring....
 
@@ -38,7 +38,7 @@ No, no you can do this. Just take it step by step, and focus on what you know. W
 
 But thanks to Anne Lamott, there's a term for everything I just said above. "Bird By Bird" is an excellent book about the process of writing, and this idea that we take everything just one step and one piece and one comment at a time is so helpful. Don't doubt that even your senior colleagues do their work one keystroke at a time, (okay Anne Lamott never had snippets and emmet to help HER, poor soul).
 
-## "Eh, this is good enough"
+# "Eh, this is good enough"
 
 The last issue I had was going far enough. The part of me who, at the beginning, wanted to go 1,000 mph and do a million features has taken a back seat to current me, who has been struggling against small problems for HOURS, now, and he's tired. Those small problems turn out to have miniscule solutions and you've lost an entire day on stackoverflow and wonder how you'll ever catch up to the knowledge your senior colleagues have and oh god will the sun ever shine on your face (okay maybe that's a bit far).
 
