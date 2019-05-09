@@ -5,13 +5,6 @@ date:   2019-03-04 10:55:00 -0500
 categories: git version-control
 ---
  
-
----
-layout: post
-title:  "When I Learned To Love Git"
-date:   2019-03-04 10:55:00 -0500
-categories: git version-control
----
 Let me tell you a story of the exact moment I fell completely in love with git. First, a bit of background.
 
 I have been coding professionally for about a year now. Before this I had worked on some projects with other people and had used git for version control. I understood in an abstract sense that git was great for working with others and I had been taught that undoing your work was simple. I slowly grokked the first point with every pull request and every struggle with merge conflicts.

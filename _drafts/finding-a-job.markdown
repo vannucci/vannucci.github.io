@@ -10,3 +10,6 @@
 1. Set a goal
 1. Craft your resume, meet people, craft a coverletter
 1. Do projects that relate to where you want to go
+
+Learning React
+https://github.com/the-road-to-learn-react/the-road-to-learn-react/tree/master/manuscript
