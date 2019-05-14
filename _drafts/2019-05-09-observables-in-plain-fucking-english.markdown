@@ -5,9 +5,9 @@ date:   2019-02-01 10:15:42 -0500
 categories: observables
 ---
 
-I hate the language of "Observables" in RxJS. I fucking loathe it. I loathe the way it's written in documentation, even if once you've penetrated the idea of it, it seems totally natural.
+I hate the language of "Observables" in RxJS. I fucking loathe it. I loathe the way it's written in most guides. However once I penetrated the idea behind what Observables are about, I actually didn't mind it and even started to love it.
 
-Here's the way I think about the idea of an "Observable". The basic idea of it is that you have a Subject that contains states that an Subscriber wants to be notified of, ("Observer" might be a better word since it doesn't start with the same letter, but Subscriber has a better meaning). The Subscriber gives the Subject a function, and that function's purpose to take the information it's given a process it in a certain way. The Subject maintains its own state, and whenever that state is updated or changes, it goes down a list of Subscribers and updates them according to how they want to be updated.
+Let's rewrite the language of "Observables" first. The "Observable" is better called a "Subject", and the thing which watches the Observable is better called a "Subscriber" (or Observer but subscriber is better). The basic idea of it is that you have a Subject that contains information and the Subscriber wants to know that information. The Subscriber gives the Subject a function, and that function's purpose to take the information it's given a process it in a certain way. The Subject maintains its own state, and whenever that state is updated or changes, it goes down a list of Subscribers and updates them according to how they want to be updated.
 
 Think of it this way. You're trying to quit smoking, or your the kind of person who always bums cigarettes. You've got a friend at the bar you're drinking at who is an unabashed smoker and goes out every so often to smoke. Every time they go out, you want to bum a cigarette (yeah you also want to talk to them, but let's be honest you want your fix).
 
