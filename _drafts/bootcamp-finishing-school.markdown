@@ -76,3 +76,19 @@ Also to give people a LANGUAGE with which to ask questions on stackoverflow. Thi
 1. Once you've done this book, a sort of "high level overview" of app deployment and automation, go back into your blog and do step-by-step examples meshing every combination of frontend, backend, database and hosting service/tech you can find. The goal THERE is to be a one-stop-reference for as many different ways of doing things as possible.
 1. As well, go through different technologies and pierce the veil with what they _actually_ do, and how they relate to similar tech but of different names. Demystify the marketing clutter.
 1. Consider doing some sort of basic cost analysis
+
+
+-------
+
+# Chapter 1: A 10,000 m View Of the Process
+
+## What skill level does this book expect?
+    Programming may be your second career, or its your first career but you are still pretty new to it. You might have been through a bootcamp, or perhaps you went through all of a college CS major or minor but you never got around to producing a complete piece of software for anyone other than yourself or a project. If you went through a bootcamp, you found yourself growing by leaps and bounds in terms of your understanding of frontend frameworks (but lets face it, you still don't completely know what this word 'framework' _means_), and you might have set up some basic backend software like a basic web server with some routing. If you found yourself more confused by the dark and mysterious backend because you can't easily see it, then you're probably a good candidate for this book. You also might have just barely used a database and you heard the term ORM at least a few times. Your teacher showed you how to set up a database locally, but the whole lesson was only a few hours, they barely had enough time for you, and you did more copy-pasting off of stackoverflow than actually manually _writing_ code. You have done a fair bit of "Learn React in 90 seconds!!!" tutorials but they always seem to gloss over a lot of details. You've been to /r/restofthef**kingowl and thought "Hey this is just like learning to code with modern clickbait resources!"
+
+    You have some ideas for small projects you want to put online. But you don't know how to get from 'create-react-app' to posting on hackernews. Maybe you have tried a few guides on using Heroku because that's what you hosted your app on at your bootcamp or in college. Maybe you _tried_ showing everyone your awesome idea on your Heroku app, but don't know why it crashed and how you can beef it up for lots of people to see. Maybe you even have a potentially _lucrative_ idea, but again you don't know how to securely bring it to market.
+
+    You would describe yourself as an "Advanced Beginner". You can make fairly complex user interfaces or you can modify an existing user interface really well. Your understanding of backend servers is passing but you wouldn't know where to start in making something robust or production grade. 
+* What is the goal of this book/long guide?
+* What is a web app?
+* What are the big parts to any web app?
+* What does 'deploying' mean and when do we know it's _done_?
