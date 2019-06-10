@@ -9,11 +9,9 @@ Things I've Learned On How To Learn Software Engineering:
 
 * Coding By Comments -- using comments and self-talk to map out what a particular object/function/feature should do, including API calls or documentation, and keep writing _in comments only_ until you have enough pseudocode to just start coding, from lowest level up
 
-* Use Anki for Spaced Repetition -- Daily study, chunking of information, and repetition and learn by recall are the ways everyone learns something new.
+* Start small, and copy when you can -- there's no shame in copying something in an existing codebase, so long as you read it through and understand it. Also, when a task feels WAY TOO BIG, start with a small part. Write out what it _should_ do, and massage it until it does
 
 * Learn by writing -- While learning code snippets in isolation is a good place to start, picking ONE project at a time and working on it is what gives context. Also, writing a blog or mentoring another person is a great way for you to see your own gaps in understanding and to strengthen them
-
-* Test Yourself In Broad Topics -- 
 
 * Read other people's code, and save it -- 
 
