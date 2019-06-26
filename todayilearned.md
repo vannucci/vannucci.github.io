@@ -17,6 +17,7 @@ A collection of concise write-ups on small things I've learned in a day in diffe
 * [C++](#Cplusplus)
 * [Python](#python)
 * [Open Questions](#openQuestions)
+* [Retool](#retool)
 
 # InterviewSkills
 1. Top 10 Algorithm Questions in 8 Topics [link](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
@@ -43,3 +44,6 @@ A collection of concise write-ups on small things I've learned in a day in diffe
 1. One of my colleagues chose to fork a package from NPM to solve an issue we had in the code (here is the [link](https://www.npmjs.com/package/ng-image-load) to the repo). Why would you fork the repo instead of just install it as a dependency? How does one fork a github repo and then incorporate it into the main codebase?
 
 1. How do you install a local version of Wordpress and Elementor for learning and playing with the software?
+
+# Retool
+1. How do I find the Google Spreadsheet ID number? [link](https://stackoverflow.com/questions/36061433/how-to-do-i-locate-a-google-spreadsheet-id)
