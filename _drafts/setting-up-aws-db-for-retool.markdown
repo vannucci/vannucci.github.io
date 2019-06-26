@@ -13,3 +13,7 @@ https://whatismyipaddress.com/cidr
 Then, we have to figure out how to _write_ to our new DB so we can have actual data on there.
 
 Can retool translate a CSV file into a DB table???
+
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToPostgreSQLInstance.html
+
+BINGO
