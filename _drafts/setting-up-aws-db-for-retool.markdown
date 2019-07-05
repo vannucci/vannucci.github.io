@@ -17,3 +17,7 @@ Can retool translate a CSV file into a DB table???
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToPostgreSQLInstance.html
 
 BINGO
+
+...security groups. This is probably an issue
+
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.RDSSecurityGroups.html
