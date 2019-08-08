@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Variable Assignment"
+title:  "TypeScript -- Object and Variable Assignment"
 date:   2019-08-07 15:00:42 -0500
 categories: typescript
 ---
