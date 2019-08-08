@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "One Hundred Days of Dynamic Programming -- Day One"
+title:  "Dynamic Programming -- Maximum Subarray"
 date:   2019-08-01 10:15:42 -0500
 categories: dynamic-programming
 ---

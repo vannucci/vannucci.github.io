@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "One Hundred Days of Dynamic Programming -- Day Two"
+title:  "Dynamic Programming -- Climbing Stairs"
 date:   2019-08-02 10:15:42 -0500
 categories: dynamic-programming
 ---
