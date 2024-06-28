@@ -2,7 +2,6 @@
 title: "Learning Hashmaps: Bijective"
 description: ""
 pubDate: "June 28 2024"
-heroImage: "/towfiqu-barbhuiya-NwIExsCqXdM-unsplash-small.jpg"
 ---
 
 ## Hashmaps

@@ -2,7 +2,6 @@
 title: "Beginning again"
 description: "Or How I Learned The Value Of Writing"
 pubDate: "June 3 2024"
-heroImage: "/towfiqu-barbhuiya-NwIExsCqXdM-unsplash-small.jpg"
 ---
 
 ## The state of affairs
