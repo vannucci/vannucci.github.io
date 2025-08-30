@@ -1,4 +1,8 @@
-
+---
+title: "Building a Mental Model: Python Tuples vs Lists"
+description: "Understanding the fundamental differences between Python's two primary sequence types and when to use each one"
+pubDate: "August 30 2025"
+---
 
 # Building a Mental Model: Python Tuples vs Lists
 
