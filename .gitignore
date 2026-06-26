@@ -25,3 +25,4 @@ pnpm-debug.log*
 
 # my personal thoughts/scratchpad
 scratchpad/
+src/notes/*
